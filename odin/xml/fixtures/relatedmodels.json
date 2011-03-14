@@ -1,0 +1,26 @@
+[
+    {
+        "pk": 1, 
+        "model": "xml.relatedmodel", 
+        "fields": {
+            "name": "related", 
+            "slug": "related"
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "xml.relatedmodel", 
+        "fields": {
+            "name": "another related", 
+            "slug": "another related"
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "xml.relatedmodel", 
+        "fields": {
+            "name": "one more related", 
+            "slug": "one more related"
+        }
+    }
+]

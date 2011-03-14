@@ -1,0 +1,38 @@
+[
+    {
+        "pk": 1, 
+        "model": "xml.examplemodel", 
+        "fields": {
+            "int_field": 14, 
+            "char_field": "test string", 
+            "datetime_field": "2011-03-14 11:45:31", 
+            "mm_field": [2,3], 
+            "fk_field": 1, 
+            "file_field": "test.mp3"
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "xml.examplemodel", 
+        "fields": {
+            "int_field": 18, 
+            "char_field": "another string", 
+            "datetime_field": "2011-03-14 11:45:31", 
+            "mm_field": [1], 
+            "fk_field": 1, 
+            "file_field": "test.mp3"
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "xml.examplemodel", 
+        "fields": {
+            "int_field": 18, 
+            "char_field": "one more string", 
+            "datetime_field": "2011-03-14 11:45:31", 
+            "mm_field": [], 
+            "fk_field": 1, 
+            "file_field": "test.mp3"
+        }
+    }
+]
